@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "469804547410",
+    "firebase_url": "https://fir-login-6ba5f.firebaseio.com",
+    "project_id": "fir-login-6ba5f",
+    "storage_bucket": "fir-login-6ba5f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:469804547410:android:2cb25ea8f1d7cb60c10e8b",
+        "android_client_info": {
+          "package_name": "com.training.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "469804547410-3pncgtv0lkmpe9qr84pj6ma73nbi7u48.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2rMKkwJwFPjXOf1Lg-YJ9SXxpLnH4rUs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "469804547410-3pncgtv0lkmpe9qr84pj6ma73nbi7u48.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
